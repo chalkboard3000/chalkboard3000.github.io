@@ -8,3 +8,10 @@ body {
   color: orange;
   background-color: white;
 }
+
+<div.description> {
+  font-family: Times;
+  font-size: 12px;
+  color: gray;
+  background-color: white;
+}
