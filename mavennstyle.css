@@ -1,23 +1,19 @@
-title {
-  color: gray;
- }
 
 h3 {
   color: orange;
 }
+
 body {
   padding: 100px 50px 0px 100px;
   font-family: Arial;
   font-size: 12px;
   color: gray;
   background-color: white;
-  width: 100%;
-  margin: 0;
 }
 
 div.description {
   font-family: Times;
-  font-size: 24px;
+  font-size: 14px;
   color: gray;
   background-color: white;
 }
