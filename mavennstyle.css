@@ -1,5 +1,11 @@
 
-h3, div.profile-overview {
+h3 {
+  font-family: Times;
+  font-size: 14px;
+  color: gray;
+}
+
+div.profile-overview {
   font-family: Times;
   font-size: 14px;
   color: orange;
