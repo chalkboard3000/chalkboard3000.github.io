@@ -3,7 +3,8 @@ title {
  }
 
 body {
-  font-family: times new roman;
+  font-family: TimesNewRoman;
+  font-family: 10px;
   color: blue;
   background-color: lightgray;
 }
