@@ -3,5 +3,7 @@ title {
  }
 
 body {
-  background-color: gray;
+  font-family: courier;
+  color: blue;
+  background-color: lightgray;
 }
