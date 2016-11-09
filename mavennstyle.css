@@ -6,7 +6,7 @@ h3 {
   color: orange;
 }
 body {
-  padding: 25px 50px 0px 100px;
+  padding: 100px 50px 0px 100px;
   font-family: Arial;
   font-size: 12px;
   color: gray;
@@ -17,7 +17,7 @@ body {
 
 div.description {
   font-family: Times;
-  font-size: 12px;
+  font-size: 14px;
   color: gray;
   background-color: white;
 }
