@@ -3,8 +3,8 @@ title {
  }
 
 body {
-  font-family: arial;
-  font-family: 10px;
+  /** font-family: arial; **/
+  font-size: 10px;
   color: orange;
   background-color: white;
 }
