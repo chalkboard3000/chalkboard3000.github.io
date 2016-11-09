@@ -2,10 +2,14 @@ title {
   color: gray;
  }
 
+h3 {
+  font-family: courier;
+  color: orange;
+}
 body {
   font-family: Arial;
   font-size: 12px;
-  color: orange;
+  color: gray;
   background-color: white;
   width: 100%;
   margin: 0;
