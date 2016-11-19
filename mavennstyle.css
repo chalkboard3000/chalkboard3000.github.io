@@ -2,20 +2,20 @@
 h3 {
   font-family: Times;
   font-size: 14px;
-  color: gray;
+  color: black;
 }
 
 div.profile-overview {
   font-family: Times;
   font-size: 14px;
-  color: gray;
+  color: black;
 }
 
 body {
   padding: 20px 30px 0px 30px;
   font-family: Arial;
   font-size: 12px;
-  color: gray;
+  color: black;
   background-color: white;
 }
 
