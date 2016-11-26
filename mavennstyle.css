@@ -4,8 +4,8 @@
     page-break-inside: avoid; 
   }
   
-  h3,h4,h5 {
-    page-break-after: avoid;
+  section {
+    page-break-insdie: avoid;
   }
 }
   
