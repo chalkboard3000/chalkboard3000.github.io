@@ -1,7 +1,8 @@
 @media print {
   
-  li {
-    page-break-before: avoid;
+  h4,h5 {
+    page-break-after: avoid;
+    
   }
 }
 
