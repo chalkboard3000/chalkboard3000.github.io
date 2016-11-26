@@ -1,10 +1,6 @@
 @media print {
-  h4 {
-    page-break-after: avoid;
-  }
-  
-  h5 {
-    page-break-after: avoid;
+  header {
+    page-break-inside: avoid;
   }
    
 }
