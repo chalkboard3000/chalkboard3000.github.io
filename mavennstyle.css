@@ -1,7 +1,7 @@
 @media print {
   header { 
     page-break-inside: avoid; 
-    page-break-after: always;
+    page-break-after: avoid;
   }
 }
   
