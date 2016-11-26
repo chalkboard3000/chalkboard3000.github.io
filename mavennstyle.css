@@ -1,8 +1,16 @@
 @media print {
-  header {
+
+  .item-subtitle {
+    page-break-after: avoid;
+  }
+  
+  .item-title {
+    page-break-after: avoid;
+  }
+  
+  .meta {
     page-break-inside: avoid;
   }
-   
 }
 
 h3 {
