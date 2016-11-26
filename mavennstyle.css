@@ -1,10 +1,7 @@
 @media print {
-  h2 { 
-    page-break-before: always;
-  }
   
-  p {
-    page-break-before: always;
+  li {
+    page-break-before: avoid;
   }
 }
 
