@@ -1,5 +1,5 @@
 @media print {
-  header { 
+  h4,h5 { 
     page-break-inside: avoid; 
     page-break-after: avoid;
     break-after: avoid;
