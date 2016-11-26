@@ -1,6 +1,6 @@
 @media print {
   
-  h4,h5 {
+  h4,h5,header {
     page-break-after: avoid;
     
   }
