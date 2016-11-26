@@ -1,4 +1,7 @@
-@media print,all {
+@media print {
+  h4 {
+    page-break-after: always;
+  }
   
   header {
     page-break-after: avoid;
